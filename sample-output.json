@@ -1,0 +1,125 @@
+[
+  {
+    "cin": "U72000DL2004PTC124396",
+    "name": "LIFE TIME BUILDWELL PRIVATE LIMITED.",
+    "status": "Active",
+    "companyType": "Private",
+    "companySubType": "Non-government Company",
+    "state": "Delhi",
+    "incorporationDate": "03 February, 2004",
+    "incorporationYear": 2004,
+    "authorisedCapital": "₹ 2.0 L",
+    "paidUpCapital": "₹ 1.1 L",
+    "lastAgmDate": "30 November, 2021",
+    "companyEmail": "contact@example.com",
+    "website": "",
+    "registeredAddress": "H-5, GROUND FLOOR, LAJPAT NAGAR-I NEW DELHI-110024 NEW DELHI Delhi - 110024",
+    "operatingRevenueRange": "",
+    "ebitdaChange": "",
+    "netWorthChange": "",
+    "updatedAt": "11 Nov 2026",
+    "summary": "Life Time Buildwell Private Limited., is an unlisted private company incorporated on 03 February, 2004. It is classified as a private limited company and is located in New Delhi, Delhi. It's authorized share capital is INR 2.00 lac and the total paid-up capital is INR 1.11 lac. The current status of Life Time Buildwell Private Limited. is - Active. The last reported AGM (Annual General Meeting) of Life Time Buildwell Private Limited., per our records, was held on 30 November, 2021. The company has three directors - Renu Sharma, Rohan Dua, and Hrishik Dua. The Corporate Identification Number (C",
+    "directorsCount": 3,
+    "chargesCount": 0,
+    "sourceUrl": "https://www.tofler.in/life-time-buildwell-private-limited/company/U72000DL2004PTC124396",
+    "directors": [
+      {
+        "designation": "Director",
+        "name": "Renu Sharma",
+        "din": "02629703",
+        "tenure": "18 years"
+      },
+      {
+        "designation": "Director",
+        "name": "Rohan Dua",
+        "din": "03543265",
+        "tenure": "15 years"
+      },
+      {
+        "designation": "Director",
+        "name": "Hrishik Dua",
+        "din": "07109092",
+        "tenure": "11 years"
+      }
+    ],
+    "charges": []
+  },
+  {
+    "cin": "U72000DL2005PTC134061",
+    "name": "YAKSHITA INFOTECH PRIVATE LIMITED",
+    "status": "Active",
+    "companyType": "Private",
+    "companySubType": "Non-government Company",
+    "state": "Delhi",
+    "incorporationDate": "16 March, 2005",
+    "incorporationYear": 2005,
+    "authorisedCapital": "₹ 2.0 L",
+    "paidUpCapital": "₹ 1.5 L",
+    "lastAgmDate": "30 November, 2021",
+    "companyEmail": "contact@example.com",
+    "website": "",
+    "registeredAddress": "6/51 G/F, GALI NO. 4 NALA SIDE, VISHWASH NGR NEW DELHI West Delhi Delhi - 110032",
+    "operatingRevenueRange": "",
+    "ebitdaChange": "",
+    "netWorthChange": "",
+    "updatedAt": "06 Nov 2026",
+    "summary": "Yakshita Infotech Private Limited, is an unlisted private company incorporated on 16 March, 2005. It is classified as a private limited company and is located in West Delhi, Delhi. It's authorized share capital is INR 2.00 lac and the total paid-up capital is INR 1.50 lac. The current status of Yakshita Infotech Private Limited is - Active. The last reported AGM (Annual General Meeting) of Yakshita Infotech Private Limited, per our records, was held on 30 November, 2021. The company has two directors - Parbodh Kumar and Pushpa Jain. The Corporate Identification Number (CIN) of Yakshita Infotec",
+    "directorsCount": 2,
+    "chargesCount": 0,
+    "sourceUrl": "https://www.tofler.in/yakshita-infotech-private-limited/company/U72000DL2005PTC134061",
+    "directors": [
+      {
+        "designation": "Director",
+        "name": "Parbodh Kumar",
+        "din": "00997131",
+        "tenure": "22 years"
+      },
+      {
+        "designation": "Director",
+        "name": "Pushpa Jain",
+        "din": "01260081",
+        "tenure": "22 years"
+      }
+    ],
+    "charges": []
+  },
+  {
+    "cin": "U72000DL2006PTC145191",
+    "name": "ANGEL SOFTWARE PRIVATE LIMITED",
+    "status": "Active",
+    "companyType": "Private",
+    "companySubType": "Non-government Company",
+    "state": "Delhi",
+    "incorporationDate": "20 January, 2006",
+    "incorporationYear": 2006,
+    "authorisedCapital": "₹ 1.1 Cr",
+    "paidUpCapital": "₹ 1.1 Cr",
+    "lastAgmDate": "28 August, 2023",
+    "companyEmail": "contact@example.com",
+    "website": "",
+    "registeredAddress": "8/1 SECOND FLOORSHANTI NIKETAN NEW DELHI NEW DELHI Delhi - 000000",
+    "operatingRevenueRange": "",
+    "ebitdaChange": "",
+    "netWorthChange": "",
+    "updatedAt": "05 Nov 2026",
+    "summary": "Angel Software Private Limited, is an unlisted private company incorporated on 20 January, 2006. It is classified as a private limited company and is located in New Delhi, Delhi. It's authorized share capital is INR 1.10 cr and the total paid-up capital is INR 1.09 cr. The current status of Angel Software Private Limited is - Active. The last reported AGM (Annual General Meeting) of Angel Software Private Limited, per our records, was held on 28 August, 2023. The company has two directors - Anuradha Choudhary and Mishika Ruhil. The Corporate Identification Number (CIN) of Angel Software Privat",
+    "directorsCount": 2,
+    "chargesCount": 0,
+    "sourceUrl": "https://www.tofler.in/angel-software-private-limited/company/U72000DL2006PTC145191",
+    "directors": [
+      {
+        "designation": "Director",
+        "name": "Anuradha Choudhary",
+        "din": "01063580",
+        "tenure": "21 years"
+      },
+      {
+        "designation": "Director",
+        "name": "Mishika Ruhil",
+        "din": "07961175",
+        "tenure": "9 years"
+      }
+    ],
+    "charges": []
+  }
+]
